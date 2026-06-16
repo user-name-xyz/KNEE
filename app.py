@@ -9,6 +9,7 @@ st.set_page_config(
     page_title="Knee OA Classifier",
     page_icon="🦴",
     layout="centered"
+)
 # -----------------------------
 # Relative path to model
 # -----------------------------
