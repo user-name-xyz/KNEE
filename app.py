@@ -5,7 +5,10 @@ import tensorflow as tf
 import cv2
 from PIL import Image
 from tensorflow import keras
-
+st.set_page_config(
+    page_title="Knee OA Classifier",
+    page_icon="🦴",
+    layout="centered"
 # -----------------------------
 # Relative path to model
 # -----------------------------
